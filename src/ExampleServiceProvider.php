@@ -32,7 +32,7 @@ class ExampleServiceProvider extends ServiceProvider
         //use this code for each module what you want add
         /*$this->app->registerModule(
             'module from file',
-            dirname(__DIR__).'/module/module.php'
+            dirname(__DIR__).'/modules/module.php'
         );*/
     }
 }
